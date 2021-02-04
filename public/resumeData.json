@@ -1,0 +1,147 @@
+{
+  "main": {
+    "name":"Nik N",
+    "description":"I'm a full stack developer. I focus on MERN stack, Laravel/Vue.js,... I'm also familiar with Cryptocurrency such as Chatapp, Bitcoin, Ethereum...",
+    "image":"profilepic.jpg",
+    "bio":"As a web developer, I've rich experience in building several websites using React.js, Vue.js and Laravel framework. I'm interested in blockchain technology and applications using this technology such as blockchain website.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "nik.nevolin.02@mail.ru",
+    "phone": "555-555-5555",
+    "address":{
+      "skype":"(skypeID)Rodion23gold@outlook.com",
+      "github":"https://github.com/IvanVolegov23"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://localhost:8080/files/Resume.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Moscow Institute of Physics and Technology, Russian Federation",
+        "degree":"Master of Computer Science",
+        "graduated":"April 2012",
+        "description":"I've learned Software Engineering and Web development in the university. I've experience in website building and project management."
+      }
+    ],
+    "skills":[
+      {
+        "name":"ReactJs",
+        "level":"95%"
+      },
+      {
+        "name":"VueJs",
+        "level":"72%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"95%"
+      },
+      {
+        "name":"Laravel",
+        "level":"70%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"90%"
+      },
+      {
+        "name":"MySQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"https://www.zappos.com"
+      },
+      {
+        "title":"BlockChain Website",
+        "category":"A React based resume website template",
+        "image":"block-chain.jpg",
+        "url":"https://blockchainsoftware.com.au"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Nik.N must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
